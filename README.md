@@ -1,7 +1,3 @@
-Here's a README file for your to-do list project, complete with emojis:
-
----
-
 # 📝 To-Do List Web Application
 
 Welcome to the **To-Do List Web Application**! This project is a simple and efficient tool designed to help you stay organized and manage your daily tasks. Built with HTML, CSS, and JavaScript, it offers an intuitive interface for adding, editing, and deleting tasks, ensuring you stay on top of your to-do list.
